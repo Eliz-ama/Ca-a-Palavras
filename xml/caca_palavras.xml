@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tecs>
+    <tec>
+        <nome>CHROME</nome>
+        <inicial>29</inicial>
+        <final>34</final>
+        <incremento>1</incremento>
+        <cor>#cdb4db</cor>
+    </tec>
+
+    <tec>
+    <nome>TECLADO</nome>
+        <inicial>37</inicial>
+        <final>43</final>
+        <incremento>1</incremento>
+        <cor>#ffc8dd</cor>
+    </tec>
+
+    <tec>
+    <nome>VISIO</nome>
+        <inicial>75</inicial>
+        <final>79</final>
+        <incremento>1</incremento>
+        <cor>#ffafcc</cor>
+    </tec>
+
+    <tec>
+    <nome>JAVA</nome>
+        <inicial>86</inicial>
+        <final>89</final>
+        <incremento>1</incremento>
+        <cor>#bde0fe</cor>
+    </tec>
+
+    <tec>
+    <nome>MOUSE</nome>
+        <inicial>92</inicial>
+        <final>96</final>
+        <incremento>1</incremento>
+        <cor>#4cc9f0</cor>
+    </tec>
+
+    <tec>
+    <nome>GIMP</nome>
+        <inicial>36</inicial>
+        <final>72</final>
+        <incremento>12</incremento>
+        <cor>#cdb4db</cor>
+    </tec>
+
+    <tec>
+    <nome>FIGMA</nome>
+        <inicial>56</inicial>
+        <final>104</final>
+        <incremento>12</incremento>
+        <cor>#ffc8dd</cor>
+    </tec>
+
+    <tec>
+    <nome>GITHUB</nome>
+        <inicial>18</inicial>
+        <final>23</final>
+        <incremento>1</incremento>
+        <cor>#4cc9f0</cor>
+    </tec>
+
+    <tec>
+    <nome>MONITOR</nome>
+        <inicial>33</inicial>
+        <final>105</final>
+        <incremento>12</incremento>
+        <cor>#e7c6ff</cor>
+    </tec>
+
+    <tec>
+    <nome>WEB</nome>
+        <inicial>46</inicial>
+        <final>70</final>
+        <incremento>12</incremento>
+        <cor>#ffafcc</cor>
+    </tec>
+</tecs>
